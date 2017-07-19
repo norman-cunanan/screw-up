@@ -1,0 +1,29 @@
+.text{
+  margin:100px;
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+  width: 150px;
+  height: 150px;
+  background: grey;
+  border: 2px solid black;
+}
+
+.relative {
+  position: relative;
+  top: 20px;
+  width: 200px;
+  height: 100px;
+  background: blue;
+}
+
+.absolute {
+  position: absolute;
+  width: 100px;
+  height: 25px;
+  background: green;
+}
+
+
